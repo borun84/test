@@ -1,0 +1,7 @@
+// Narysuj tyle kotow,ile zechcesz!
+var rysujKoty = funktion (ileRazy) {
+for (var i = 0; i < ileRazy; i++) {
+console.log(i + "=^.^=");
+  }
+};
+rysujKoty(10);// zamiast 10 mozna wstawic dowolna liczbe.
